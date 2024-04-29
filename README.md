@@ -2,7 +2,10 @@
 
 ## About
 
-A Python program to generate a new piece of abstract art every time the code is run.
+A Python program to generate a new piece of abstract art every time the code is run, as can be seen in the example below:
+
+![image](https://github.com/CodeMaster7000/Randomness-Abstract-Art/assets/95772109/df29430b-421f-4278-a658-931e4e937856)
+
 
 ## Prerequisites
 
